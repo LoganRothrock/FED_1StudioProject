@@ -2,7 +2,169 @@
     font-size: 20px;
     font: bold;
 }
-header{
-    background-color:dodgerblue;
-
+header {
+    border: solid;
 }
+nav{
+    border: solid;
+}
+footer{
+    border: solid;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    padding: .4em 1em;
+    display: block;
+}
+ .choose-us h1 {
+    text-align:center;
+}
+ .choose-us h2{
+     text-align:center
+ }
+#compLogo {
+    float: left;
+    height: 75px;
+    margin-right: 15px;
+    padding-top: 1.5%;
+    padding-left: 1%;
+    padding-bottom: .5%;
+    padding-right: .5%;
+}
+header h1{
+    font-size: 20px;
+}
+header p{
+    font-size: 15px;
+}
+#aboutUsImg{
+    float: left;
+    height: 200px;
+    width: 250px;
+    padding-right: 3%;
+    padding-left: 1.5%;
+   
+}
+.clear{
+    clear:both;
+}
+.textAlignLeft h1{
+    text-decoration: underline;
+}
+.textAlignLeft{
+    text-align: left;
+    margin-left: 15px;
+}
+.textAlignRight {
+    text-align: right;
+    margin-right: 15px;
+}
+#reasonOnePic{
+    float:left;
+    height: 40%;
+    width: 50%;
+    padding-right: 10%;
+}
+#reasonTwoPic {
+    float: right;
+    height: 40%;
+    width: 50%;
+    padding-left: 10%;
+}
+#centerHeader{
+    text-align: center;
+}
+.contact{
+    text-align:center;
+}
+#contactFormat{
+    text-align:left;
+    padding-left:30%;
+}
+.contactFormat article{
+    text-align:center;
+}
+.contactInfo {
+    display: inline;
+    border-top-style: solid; 
+    border-bottom-style: solid;
+    margin-left: 15px;
+}
+#rightColumn {
+    float: right;
+    margin-left:auto;
+    position: sticky;
+    top: 0;
+}
+aside{
+    display:block;
+    width: 25%;
+}
+#leftColumn {
+    float: left;
+    width: 70%;
+    border-right-style: solid;
+    box-sizing: border-box;
+}
+.clear{
+    clear:both;
+}
+.hidden{
+  
+}
+.teamPics {
+    float: left;
+    height: 200px;
+    width: 250px;
+}
+.classGallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    width: 350px;
+}
+.classImages{
+    width:10px;
+}
+.Department{
+    text-align:center;
+    font-weight:900;
+    font-size: 50px;
+}
+.DepartmentPic{
+    float: left;
+    height: 100px;
+    padding-left:2%;
+    padding-right: 5%;
+}
+.Department , p{
+    padding-bottom: 2%;
+}
+.choose-us{
+    padding:.5%;
+    padding-right:0;
+    padding-left:0;
+}
+.choose-us h1{
+    font-size: 300%;
+    margin-top:2%;
+}
+.choose-us article{
+    padding: 3%;
+}
+.about-us{
+    padding:2%;
+}
+.about-us h1{
+    font-size:200%;
+    text-decoration:underline;
+}
+main{
+    border:solid;
+}
+
+
+
+
