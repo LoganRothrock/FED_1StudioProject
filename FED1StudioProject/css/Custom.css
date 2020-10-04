@@ -164,6 +164,16 @@ aside{
 main{
     border:solid;
 }
+#classSchedule{
+    width:30%;
+    margin-left:35%;
+    margin-right:35%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
 
 
 
